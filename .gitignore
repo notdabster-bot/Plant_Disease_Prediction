@@ -1,0 +1,19 @@
+# Environments
+tf_env/
+venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Large Model Files (Optional but recommended)
+*.keras
+*.h5
+*.pkl
+
+# Data
+datasets/
